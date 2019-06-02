@@ -1,0 +1,75 @@
+#Register {
+	font-family: 'Ranga', cursive;
+	text-align: center;
+	font-size: 25pt;
+	word-spacing: 275px;
+	
+	color: white;
+	background-color: black;
+	font-weight: bold;
+	
+    width: 1640px;
+    height: 50px;
+	padding-top: 12px;
+	
+	margin-top: -85px;
+	margin-left: 210px;
+	
+	border-color: #3B0B24;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 18px;
+}
+
+
+a { 
+
+color: white;
+text-decoration: none;
+
+}
+
+#BC {
+	
+	font-family: 'Parisienne', cursive;
+	text-align: center;
+	background-color: black;
+	color: #610B5E;
+	font-weight: bold;
+	font-size: 30pt;
+	line-height: 5pt;
+	
+	width: 175px;
+    height: 100px;
+	
+	margin-left: 10px;
+	
+	padding-top: 5px;
+	
+	
+}
+
+
+#Profiltext {
+	background-color: #2A0A22;
+	color: white;
+	text-align: center;
+	font-size: 25px; 
+	
+	width: 1580px;
+	height: 1000px;
+	
+	margin-top: -10px;
+	margin-left: 241px;
+	
+	border-color: #3B0B24;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 18px;
+	
+	
+}
+
+
+
+
